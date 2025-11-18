@@ -34,7 +34,8 @@ Be as creative as you want!
 1. **Fork** this repository
 2. **Clone** the repository
 3. Code in the forked repository
-4. Submit the forked repository link on the website **when done**
+4. **Deploy** the page for ease of access
+5. Submit the forked repository link on the website **when done**
 
 ## Getting Started
 
