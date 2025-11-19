@@ -1,10 +1,9 @@
 import type { Metadata } from "next";
-import { Geist, Geist_Mono } from "next/font/google";
 import "./globals.css";
 
 export const metadata: Metadata = {
-  title: "Landing Page Redesign Sprint",
-  description: "Improve the UI/UX of this basic landing page.",
+  title: "Galactic Arcade - Enter the Cosmos",
+  description: "Experience the ultimate fusion of retro arcade and cosmic adventure.",
 };
 
 export default function RootLayout({
@@ -14,7 +13,7 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en">
-      <body className="antialiased">{children}</body>
+      <body className="antialiased font-['Inter'] text-white">{children}</body>
     </html>
   );
 }
